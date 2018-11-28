@@ -1,4 +1,4 @@
-# Perimeter and area of a rectangle with and input
+# Perimeter and area of a rectangle with an input
 # Adrián Navarro Gabino
 
 side1 = float(input("Enter side #1: "))
