@@ -1,4 +1,4 @@
-# Area of a circunference
+# Area of a circunference 
 # Adrián Navarro Gabino
 
 from math import pi
