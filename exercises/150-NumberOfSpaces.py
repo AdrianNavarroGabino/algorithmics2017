@@ -1,4 +1,4 @@
-# How many words in a sentence?
+# How many spaces in a sentence?
 # Adrián Navarro Gabino
 
 sentence = input("Enter a sentence: ")
